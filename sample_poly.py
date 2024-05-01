@@ -1,3 +1,4 @@
+#Created by mmnair
 class Shapes:
     shape = ""
     def __int__(self):
