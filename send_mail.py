@@ -1,3 +1,4 @@
+#created by manu nair
 import smtplib, ssl
 
 smtp_host ="mail.mmnair.com"
