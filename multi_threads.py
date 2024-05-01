@@ -1,4 +1,4 @@
-#created by me
+#created by mushrifa
 import threading
 import time
 
